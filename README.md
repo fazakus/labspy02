@@ -29,9 +29,6 @@ else :
     print ( "Jadi bilangan terbesarnya adalah =", c )
 ```
 Penjelasan :<br>
-> * Karena untuk menentukan bilangan terbesar dari 3 bilangan, akan ada 3 kondisi, maka dari itu source code nya menggunakan ***if elif***.<br>
-> * Logika dari ***if elif*** adalah akan memeriksa apakah kondisi 1 bernilai true ? Jika tidak, apakah kondisi 2 bernilai true ? Jika tidak, apakah kondisi 3 bernilai true ? dan seterusnya, dan jika tidak ada kondisi yang bernilai true, maka python akan menjalankan statemen didalam blok else.<br>
-
 1. Syntax dibawah berfungsi untuk memeriksa kondisi pertama apakah kondisi tersebut ***true*** atau ***false***, bila kondisi ini ***true*** maka akan keluar output ***"Jadi bilangan terbesarnya adalah = a"***, jika false maka berlanjut ke kondisi kedua
 ```python
 if a > b and a > c :
@@ -47,6 +44,8 @@ elif b > a and b > c :
 else :
     print ( "Jadi bilangan terbesarnya adalah =", c )
 ```
+> * Karena untuk menentukan bilangan terbesar dari 3 bilangan, akan ada 3 kondisi, maka dari itu source code nya menggunakan ***if elif***.<br>
+> * Logika dari ***if elif*** adalah akan memeriksa apakah kondisi 1 bernilai true ? Jika tidak, apakah kondisi 2 bernilai true ? Jika tidak, apakah kondisi 3 bernilai true ? dan seterusnya, dan jika tidak ada kondisi yang bernilai true, maka python akan menjalankan statemen didalam blok else.<br>
 
 Hasil dari source code diatas, misalkan :
 * a = 5
@@ -56,3 +55,10 @@ Hasil dari source code diatas, misalkan :
 ![output](Pic/output.png)  
 
 Maka bilangan terbesar dari nilai a, b & c tersebut adalah c = 7
+
+**========================================================================================**
+**====================================FAZA ARDAN KUSUMA===================================**
+**========================================312010001=======================================**
+**=========================================TA.20.B1=======================================**
+**======================================TERIMA KASIH======================================**
+**========================================================================================**
