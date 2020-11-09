@@ -1,4 +1,9 @@
 # labspy02
+
+**Nama    : Faza Ardan Kusuma<br>
+NIM     : 312010001<br>
+Kelas   : TI.20.B1**
+
 ## Pertemuan 7 - Tugas Praktikum 2 
 Pada praktikum ini di tugas no 2 adalah membuat membuat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya dengan menggunakan ***statement if.***
